@@ -1,0 +1,32 @@
+---- Ordinare una Pizza ----
+
+SE ho voglio di una pizza succulenta
+
+ALLORA
+
+    Prendo listino pizze
+
+    FINCHE' ci sono pizze nel listino
+        Vedo listino pizze
+
+        SE c'è una bella pizza succulenta
+        ALLORA 
+            prendo una bella pizza succulenta scelta
+
+        ALTRIMENTI
+            prendo prosciutto e funghi
+
+    Mangio la pizza
+
+    SE avanza una fetta
+
+    ALLORA 
+        prendo un piatto
+        getto il cartone nella differenziata
+        metto la pizza in frigo
+
+    ALTRIMENTI
+        una a me E il resto al gatto
+
+ALTRIMENTI
+    ordino un kebab
